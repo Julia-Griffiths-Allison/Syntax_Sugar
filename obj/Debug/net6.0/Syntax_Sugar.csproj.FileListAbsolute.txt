@@ -1,0 +1,15 @@
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\Syntax_Sugar\bin\Debug\net6.0\Syntax_Sugar.exe
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\Syntax_Sugar\bin\Debug\net6.0\Syntax_Sugar.deps.json
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\Syntax_Sugar\bin\Debug\net6.0\Syntax_Sugar.runtimeconfig.json
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\Syntax_Sugar\bin\Debug\net6.0\Syntax_Sugar.dll
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\Syntax_Sugar\bin\Debug\net6.0\Syntax_Sugar.pdb
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\Syntax_Sugar\obj\Debug\net6.0\Syntax_Sugar.csproj.AssemblyReference.cache
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\Syntax_Sugar\obj\Debug\net6.0\Syntax_Sugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\Syntax_Sugar\obj\Debug\net6.0\Syntax_Sugar.AssemblyInfoInputs.cache
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\Syntax_Sugar\obj\Debug\net6.0\Syntax_Sugar.AssemblyInfo.cs
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\Syntax_Sugar\obj\Debug\net6.0\Syntax_Sugar.csproj.CoreCompileInputs.cache
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\Syntax_Sugar\obj\Debug\net6.0\Syntax_Sugar.dll
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\Syntax_Sugar\obj\Debug\net6.0\refint\Syntax_Sugar.dll
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\Syntax_Sugar\obj\Debug\net6.0\Syntax_Sugar.pdb
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\Syntax_Sugar\obj\Debug\net6.0\Syntax_Sugar.genruntimeconfig.cache
+C:\Users\bgurt\OneDrive\Desktop\Lia's Schooling\Syntax_Sugar\obj\Debug\net6.0\ref\Syntax_Sugar.dll
