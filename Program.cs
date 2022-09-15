@@ -9,4 +9,4 @@
 //}
 
 var answer = 4;
-var message = (answer == 9) ? "Correct!" : "Sorry, I don't think that is right";
+var message = (answer == 9) ? $"Correct, 9 = {answer}!" : $"Sorry, 9 = {answer}";
